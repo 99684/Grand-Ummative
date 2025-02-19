@@ -50,6 +50,10 @@ def main():
         pygame.display.flip()
         
         if process != 'null':
+        def player(name):
+        
+        
+
             print(f"{line}:Heartbeat {counter}: Got a registry event at {last} using {process}")
     
     pygame.quit()
